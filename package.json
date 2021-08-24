@@ -1,43 +1,35 @@
 {
-  "name": "md-links",
-  "version": "0.1.0",
-  "author": "Magdalena Sanhueza <magdasanhueza.s@gmail.com> (http://github.com/Magdasanhueza/SCL017-md-link/)",
-  "description": "md Links @ Laboratoria",
+  "name": "scl017-md-link",
+  "version": "1.0.0",
+  "description": "\"md Links @ Laboratoria\"",
   "main": "index.js",
-  "keywords": [
-    "javascript",
-    "node.js",
-    "jest"
-  ],
-  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
-    "htmlhint": "htmlhint dist/*.html ",
-    "eslint": "eslint --ext .js src/ test/",
-
-   
-    "test": "jest --coverage",
-    "start": "serve src/"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "bin": {
-    "md-links": "./path/to/program"
+    "md-links": "./index.js"
   },
-  "devDependencies": {
-    "@babel/core": "^7.11.4",
-    "@babel/preset-env": "^7.11.0",
-    "babel-jest": "^26.3.0",
-    "eslint": "^7.7.0",
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jest": "^24.1.0",
-    "htmlhint": "^0.14.0",
-    "jest": "^26.4.2",
-    "regenerator-runtime": "^0.13.1",
-    "serve": "^11.0.2",
-    "stylelint": "^13.6.1",
-    "stylelint-config-recommended": "^3.0.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magdasanhueza/SCL017-md-link.git"
   },
-  "engines": {
-    "node": ">=10"
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Magdalena Sanhueza <magdasanhueza.s@gmail.com> (http://github.com/Magdasanhueza/SCL017-md-link/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magdasanhueza/SCL017-md-link/issues"
+  },
+  "homepage": "https://github.com/Magdasanhueza/SCL017-md-link#readme",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "marked": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7"
   }
 }
