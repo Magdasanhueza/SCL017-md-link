@@ -2,12 +2,13 @@
   "name": "scl017-md-link",
   "version": "1.0.0",
   "description": "\"md Links @ Laboratoria\"",
-  "main": "index.js",
+  "main": "logic.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node logic.js",
+    "test": "jest"
   },
   "bin": {
     "md-links": "./index.js"
@@ -28,6 +29,7 @@
   "dependencies": {
     "fetch": "^1.1.0",
     "fs": "0.0.1-security",
+    "jest": "^27.1.0",
     "marked": "^3.0.0",
     "node-fetch": "^2.6.1",
     "path": "^0.12.7"
