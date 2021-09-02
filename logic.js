@@ -1,4 +1,11 @@
-const mdLinks = require("./index.js").mdLinks;
+#!/usr/bin/env node
+const [,, ...args] = process.argv
+console.log(`Hola ${args}`)
 
-mdLinks('./index.js')
-mdLinks('./Assets')
+const mdLinks = require("./index").mdLinks
+
+mdLinks(args[0])
+
+
+
+
