@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [1. ¿Qué es nico-md?](#1¿Qué-es-Md-Links?)
+* [1. ¿Qué es Magda-mdLinks?](#1¿Qué-es-Md-Links?)
 * [2. Diagrama de Flujo](#2Diagrama-de-Flujo)
 * [3. Instalación](#3Instalación)
 * [4. Indicaciones de como debes usar la librería](#4Indicaciones-de-como-debes-usar-la-librería)
@@ -32,15 +32,15 @@
 
   * Abriremos la terminal de tu editor de código o tu gitbash (o el que tu prefieras), como se muestra en la siguiente imagen.
   
-  ![Terminal](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/terminal%20nicomd.png)
+  ![Terminal](https://github.com/Magdasanhueza/SCL017-md-link/blob/master/Assets/terminal%201.png)
   
   * A continuación debes usar el siguiente comando ***Magda-mdLinks*** y agregar ruta relativa o absoluta del archivo o directorio que quieras analizar. En La foto que adjunto a continuación yo ocupo el nombre del directorio assets que contiene un archivo .md y otros de formatos diferentes.
   
-  ![Comando](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/terminal%20nicomd2.png)
+  ![Comando](https://github.com/Magdasanhueza/SCL017-md-link/blob/master/Assets/terminal%202.png)
   
   * Por último hacer  click en la tecla ***Enter*** y ***voilà*** ya tienes el resultado del analisis de tu archivo o directorio.
   
-  ![Análisis](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/terminal%20nicomd3.png)
+  ![Análisis](https://github.com/Magdasanhueza/SCL017-md-link/blob/master/Assets/terminal%203.png)
   
   
  ##### 5. ¿Qué muestra el análisis? ![análisis](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/computadora.png)
