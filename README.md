@@ -53,7 +53,7 @@
   *Finalmente justo en el lado izquierdo de cada link mostrará el status de cada uno de estos con un ***Link Valid*** o ***Link inValid***
   
   
-  * Puedes descargar la librería directamente en este enlace https://github.com/nicolarabarca/SCL017-md-link/releases/tag/v0.0.1
+  * Puedes descargar la librería directamente en este enlace https://github.com/Magdasanhueza/SCL017-md-link/releases/tag/v0.0.2
   
  
  
