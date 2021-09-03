@@ -34,7 +34,7 @@
   
   ![Terminal](https://github.com/Magdasanhueza/SCL017-md-link/blob/master/Assets/terminal%201.png)
   
-  * A continuación debes usar el siguiente comando ***Magda-mdLinks*** y agregar ruta relativa o absoluta del archivo o directorio que quieras analizar. En La foto que adjunto a continuación yo ocupo el nombre del directorio assets que contiene un archivo .md y otros de formatos diferentes.
+  * A continuación debes usar el siguiente comando ***Magda-mdLinks*** y agregar ruta relativa o absoluta del archivo o directorio que quieras analizar. En La foto que adjunto a continuación yo ocupo el nombre del directorio Assets que contiene un archivo .md y otros de formatos diferentes.
   
   ![Comando](https://github.com/Magdasanhueza/SCL017-md-link/blob/master/Assets/terminal%202.png)
   
