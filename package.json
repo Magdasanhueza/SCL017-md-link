@@ -4,16 +4,14 @@
   "description": "MD-Link resuelve si los link son validos  o  no  valido",
   "main": "index.js",
   "scripts": {
-
     "eslint": "eslint --ext .js src/ test/",
-
     "start": "node SCL017-md-link/logic.js",
     "test": "jest --coverage"
   },
   "bin": {
     "Magda-mdLinks": "./logic.js"
   },
-  "repository": {  
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/Magdasanhueza/SCL017-md-link.git"
   },
@@ -33,12 +31,12 @@
     "path": "^0.12.7"
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
     "@babel/core": "^7.11.4",
     "@babel/preset-env": "^7.11.0",
     "babel-jest": "^26.3.0",
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.18.2",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-jest": "^24.1.0",
     "htmlhint": "^0.14.0",
     "jest": "^26.4.2",
