@@ -11,7 +11,7 @@
 
 ***
 
-## 1. ¿Qué es nico-md?  ![libreria](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/libreria.png)
+## 1. ¿Qué es Magda-mdLinks?  ![librería](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/libreria.png)
 
 ***Magda-mdLinks*** es un lenguaje de marcado ligero que manejan texto plano, ayudando así a conseguir la máxima legibilidad y facilidad de  publicación (como  el conocido documento README.md). Magda-mdLinks valida especificamente si el archivo Markdown contiene links y si estos links son funcionales o se encuentran rotos.
 
