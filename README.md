@@ -13,7 +13,7 @@
 
 ## 1. ¿Qué es nico-md?  ![libreria](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/libreria.png)
 
-***Magda-mdLinks*** es un lenguaje de marcado ligero que manejan texto plano, ayudando así a conseguir la máxima legibilidad y facilidad de  publicación (como  el conocido documento README.md).Magda-mdLinks valida especificamente si el archivo Markdown contiene links y si estos links son funcionales o se encuentran rotos.
+***Magda-mdLinks*** es un lenguaje de marcado ligero que manejan texto plano, ayudando así a conseguir la máxima legibilidad y facilidad de  publicación (como  el conocido documento README.md). Magda-mdLinks valida especificamente si el archivo Markdown contiene links y si estos links son funcionales o se encuentran rotos.
 
 
 ## 2. Diagrama de Flujo ![diagrama](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/diagrama-de-flujo%20(1).png)
@@ -24,7 +24,7 @@
 
 
   Para llevar a cabo el primer paso tienes ***2 opciones***
-    - La primera opción es realizar un ***Fork*** y ***clonar*** el proyecto nico-md para luego realizar la instalaciín con el comando ***npm install -g Magda-mdLinks*** 
+    - La primera opción es realizar un ***Fork*** y ***clonar*** el proyecto Magda-mdLinks para luego realizar la instalación con el comando ***npm install -g Magda-mdLinks*** 
     - La segunda opción es ***descargar*** directamente el proyecto y luego realizar la instalación con el comando ***npm install -g Magda-mdLinks***
     
 #### 4. Indicaciones de como debes usar la librería ![indicaciones](https://github.com/nicolarabarca/SCL017-md-link/blob/master/assets/portapapeles.png)
